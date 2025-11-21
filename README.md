@@ -107,8 +107,8 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Prithviraj V Nair">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Prithviraj%20V%20Nair&count=5&unique=true" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/iuua68797jv0zoqvyeubl42g0">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=iuua68797jv0zoqvyeubl42g0&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
