@@ -1,5 +1,5 @@
 <p align="center">Hi 👋, I'm Prithviraj V Nair</p>
-
+<hr>
 ###
 
 <p align="center">A Passionate Full Stack Developer from INDIA</p>
