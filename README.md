@@ -1,4 +1,4 @@
-<p align="center">Hi 👋, I'm Prithviraj V Nair</p>
+<h1 align="center">Hi 👋, I'm Prithviraj V Nair</h1>
 <hr>
 ###
 
