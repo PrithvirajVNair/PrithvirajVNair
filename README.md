@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on RAAP<br>🌱 I’m currently learning MEA(R)N Stack<br>💬 Ask me about JavaScript, React</p>
+<p align="left">🔭 I’m currently working on RAAP<br>🌱 I’m currently learning NestJS<br>💬 Ask me about JavaScript, React</p>
 
 ###
 
